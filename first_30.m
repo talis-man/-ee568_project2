@@ -2,7 +2,7 @@ close all
 clear all
 clc
 
-%24Slot-22Pole-First Harmonic
+%30Slot-22Pole-First Harmonic
 M = cos(0*pi/180)
 N = sin(0*pi/180)
 ver = M
